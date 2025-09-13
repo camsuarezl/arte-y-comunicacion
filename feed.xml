@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Arte y comunicación</title>
+    <link href="https://camsuarezl.github.io/arte-y-comunicacion/feed.xml" rel="self" />
+    <link href="https://camsuarezl.github.io/arte-y-comunicacion" />
+    <updated>2025-09-12T21:20:34-05:00</updated>
+    <author>
+        <name>Camila Suárez</name>
+    </author>
+    <id>https://camsuarezl.github.io/arte-y-comunicacion</id>
+
+    <entry>
+        <title>WEB COMIC</title>
+        <author>
+            <name>Camila Suárez</name>
+        </author>
+        <link href="https://camsuarezl.github.io/arte-y-comunicacion/web-comic.html"/>
+        <id>https://camsuarezl.github.io/arte-y-comunicacion/web-comic.html</id>
+
+        <updated>2025-09-12T21:20:34-05:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/Captura-de-pantalla-2025-09-12-211855.png" alt="" width="933" height="920" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-xs.png 640w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-sm.png 768w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-md.png 1024w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-lg.png 1366w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-xl.png 1600w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-2xl.png 1920w"></figure>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>composicion visual</title>
+        <author>
+            <name>Camila Suárez</name>
+        </author>
+        <link href="https://camsuarezl.github.io/arte-y-comunicacion/composicion-visual.html"/>
+        <id>https://camsuarezl.github.io/arte-y-comunicacion/composicion-visual.html</id>
+
+        <updated>2025-09-07T12:29:00-05:00</updated>
+            <summary></summary>
+        <content></content>
+    </entry>
+</feed>

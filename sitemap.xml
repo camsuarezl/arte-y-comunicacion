@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://camsuarezl.github.io/arte-y-comunicacion/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://camsuarezl.github.io/arte-y-comunicacion/</loc>
+</url>
+<url>
+<loc>https://camsuarezl.github.io/arte-y-comunicacion/acerca-de-mi.html</loc>
+<lastmod>2025-09-07T12:24:41-05:00</lastmod>
+</url>
+<url>
+<loc>https://camsuarezl.github.io/arte-y-comunicacion/collage.html</loc>
+<lastmod>2025-09-12T21:30:50-05:00</lastmod>
+</url>
+<url>
+<loc>https://camsuarezl.github.io/arte-y-comunicacion/composicion-visual.html</loc>
+<lastmod>2025-09-07T12:29:00-05:00</lastmod>
+</url>
+<url>
+<loc>https://camsuarezl.github.io/arte-y-comunicacion/web-comic.html</loc>
+<lastmod>2025-09-12T21:20:34-05:00</lastmod>
+<image:image>
+<image:loc>https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/Captura-de-pantalla-2025-09-12-211855.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

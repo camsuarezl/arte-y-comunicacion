@@ -1,0 +1,38 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "Arte y comunicación",
+    "description": "",
+    "home_page_url": "https://camsuarezl.github.io/arte-y-comunicacion",
+    "feed_url": "https://camsuarezl.github.io/arte-y-comunicacion/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Camila Suárez"
+    },
+    "items": [
+        {
+            "id": "https://camsuarezl.github.io/arte-y-comunicacion/web-comic.html",
+            "url": "https://camsuarezl.github.io/arte-y-comunicacion/web-comic.html",
+            "title": "WEB COMIC",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/Captura-de-pantalla-2025-09-12-211855.png\" alt=\"\" width=\"933\" height=\"920\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-xs.png 640w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-sm.png 768w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-md.png 1024w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-lg.png 1366w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-xl.png 1600w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "Camila Suárez"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-12T21:20:34-05:00",
+            "date_modified": "2025-09-12T21:20:34-05:00"
+        },
+        {
+            "id": "https://camsuarezl.github.io/arte-y-comunicacion/composicion-visual.html",
+            "url": "https://camsuarezl.github.io/arte-y-comunicacion/composicion-visual.html",
+            "title": "composicion visual",
+            "author": {
+                "name": "Camila Suárez"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-09-07T12:29:00-05:00",
+            "date_modified": "2025-09-07T12:29:00-05:00"
+        }
+    ]
+}
