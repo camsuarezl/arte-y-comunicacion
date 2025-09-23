@@ -3,12 +3,33 @@
     <title>Arte y comunicación</title>
     <link href="https://camsuarezl.github.io/arte-y-comunicacion/feed.xml" rel="self" />
     <link href="https://camsuarezl.github.io/arte-y-comunicacion" />
-    <updated>2025-09-12T22:02:04-05:00</updated>
+    <updated>2025-09-22T22:40:09-05:00</updated>
     <author>
         <name>Camila Suárez</name>
     </author>
     <id>https://camsuarezl.github.io/arte-y-comunicacion</id>
 
+    <entry>
+        <title>Composicion sonora</title>
+        <author>
+            <name>Camila Suárez</name>
+        </author>
+        <link href="https://camsuarezl.github.io/arte-y-comunicacion/composicion-sonora.html"/>
+        <id>https://camsuarezl.github.io/arte-y-comunicacion/composicion-sonora.html</id>
+
+        <updated>2025-09-22T22:40:09-05:00</updated>
+            <summary>
+                <![CDATA[
+                    Para esta composición me basé en los sonidos de Usaquén. Los grabé un domingo: el murmullo de los puestos, las voces de quienes venden, el roce de las lonas y las carpas. Mezclé esas tomas con sonidos de archivo que ya tenía de otros recorridos&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy"  src="https://camsuarezl.github.io/arte-y-comunicacion/media/posts/6/208838-5.jpg" alt="" width="2048" height="3088" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://camsuarezl.github.io/arte-y-comunicacion/media/posts/6/responsive/208838-5-xs.jpg 640w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/6/responsive/208838-5-sm.jpg 768w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/6/responsive/208838-5-md.jpg 1024w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/6/responsive/208838-5-lg.jpg 1366w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/6/responsive/208838-5-xl.jpg 1600w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/6/responsive/208838-5-2xl.jpg 1920w"></figure>
+<p>Para esta composición me basé en los sonidos de Usaquén. Los grabé un domingo: el murmullo de los puestos, las voces de quienes venden, el roce de las lonas y las carpas. Mezclé esas tomas con sonidos de archivo que ya tenía de otros recorridos por el lugar. Quise mostrar las distintas capas del espacio. Muchas veces no notamos que, detrás de las manillas, mesas y carpas, hay microsonidos que, si los escuchamos con atención, transforman nuestra percepción del mercado. Elegí Usaquén porque es un lugar muy importante para mí: atraviesa mi obra y, en especial, mis proyectos sonoros por su enorme riqueza acústica. =D<br><br>https://soundcloud.com/user-518450072/usaquen-de-forma-extrana/s-o53mthulXRS?si=fb294588b6684693b8ab31f58277f171&amp;utm_source=clipboard&amp;utm_medium=text&amp;utm_campaign=social_sharing</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>WEB COMIC</title>
         <author>
