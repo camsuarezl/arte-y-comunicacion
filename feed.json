@@ -10,6 +10,46 @@
     },
     "items": [
         {
+            "id": "https://camsuarezl.github.io/arte-y-comunicacion/entrevista.html",
+            "url": "https://camsuarezl.github.io/arte-y-comunicacion/entrevista.html",
+            "title": "Entrevista ",
+            "summary": "una entrevista a una artista de la universidad de los andes, siendo este un podcast para ver como es que la ceramica no es solo una forma de arte sino una froma de conexion y reflexion",
+            "content_html": "<p class=\"align-center\">una entrevista a una artista de la universidad de los andes, siendo este un podcast para ver como es que la ceramica no es solo una forma de arte sino una froma de conexion y reflexion </p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Camila Suárez"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-09T15:56:24-05:00",
+            "date_modified": "2025-11-09T15:56:24-05:00"
+        },
+        {
+            "id": "https://camsuarezl.github.io/arte-y-comunicacion/poster-bruuma.html",
+            "url": "https://camsuarezl.github.io/arte-y-comunicacion/poster-bruuma.html",
+            "title": "Poster Bruuma",
+            "summary": "este poster fue diseñado ya que amo hacer collage, todo empezo como una froma de chiste entre amigas pero termino siendo una forma de apoyo mutuo y pasar una tarde chevere de amigas",
+            "content_html": "<p class=\"align-center\">este poster fue diseñado ya que amo hacer collage, todo empezo como una froma de chiste entre amigas pero termino siendo una forma de apoyo mutuo y pasar una tarde chevere de amigas</p>\n<figure class=\"post__image\"><img loading=\"lazy\"  src=\"https://camsuarezl.github.io/arte-y-comunicacion/media/posts/9/fanzine.png\" alt=\"afiche de bruuma \" width=\"2000\" height=\"1271\" sizes=\"(max-width: 1920px) 100vw, 1920px\" srcset=\"https://camsuarezl.github.io/arte-y-comunicacion/media/posts/9/responsive/fanzine-xs.png 640w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/9/responsive/fanzine-sm.png 768w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/9/responsive/fanzine-md.png 1024w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/9/responsive/fanzine-lg.png 1366w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/9/responsive/fanzine-xl.png 1600w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/9/responsive/fanzine-2xl.png 1920w\"></figure>",
+            "author": {
+                "name": "Camila Suárez"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-09T15:50:58-05:00",
+            "date_modified": "2025-11-09T15:50:58-05:00"
+        },
+        {
+            "id": "https://camsuarezl.github.io/arte-y-comunicacion/resena-chainsaw-man.html",
+            "url": "https://camsuarezl.github.io/arte-y-comunicacion/resena-chainsaw-man.html",
+            "title": "Reseña Chainsaw Man",
+            "author": {
+                "name": "Camila Suárez"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-09T15:45:36-05:00",
+            "date_modified": "2025-11-09T15:45:36-05:00"
+        },
+        {
             "id": "https://camsuarezl.github.io/arte-y-comunicacion/resena-lego-batman.html",
             "url": "https://camsuarezl.github.io/arte-y-comunicacion/resena-lego-batman.html",
             "title": "Reseña Lego Batman",
