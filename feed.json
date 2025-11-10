@@ -10,6 +10,20 @@
     },
     "items": [
         {
+            "id": "https://camsuarezl.github.io/arte-y-comunicacion/video-experimental.html",
+            "url": "https://camsuarezl.github.io/arte-y-comunicacion/video-experimental.html",
+            "title": "Video experimental ",
+            "summary": "aca experiemente con todo, desde jugar con la velicidad de montaje, el croma, la forma de que se muevan las fotos aun faltan pero por ahora fu emi manera de experimentar con las herramientas que tengo y que me encantan usar. https://youtu.be/N29weDSzOTU https://youtu.be/1Gm2x2iB_ZM https://youtu.be/z3ZLVv0dGU0",
+            "content_html": "<p class=\"align-center\">aca experiemente con todo, desde jugar con la velicidad de montaje, el croma, la forma de que se muevan las fotos aun faltan pero por ahora fu emi manera de experimentar con las herramientas que tengo y que me encantan usar.</p>\n<p> </p>\n<p><a href=\"https://youtu.be/N29weDSzOTU\">https://youtu.be/N29weDSzOTU</a></p>\n<p><a href=\"https://youtu.be/1Gm2x2iB_ZM\">https://youtu.be/1Gm2x2iB_ZM</a></p>\n<p><a href=\"https://youtu.be/z3ZLVv0dGU0\">https://youtu.be/z3ZLVv0dGU0</a></p>\n<p> </p>\n<p> </p>",
+            "author": {
+                "name": "Camila Suárez"
+            },
+            "tags": [
+            ],
+            "date_published": "2025-11-10T09:27:27-05:00",
+            "date_modified": "2025-11-10T09:27:27-05:00"
+        },
+        {
             "id": "https://camsuarezl.github.io/arte-y-comunicacion/entrevista.html",
             "url": "https://camsuarezl.github.io/arte-y-comunicacion/entrevista.html",
             "title": "Entrevista ",
@@ -91,18 +105,6 @@
             ],
             "date_published": "2025-09-12T21:20:34-05:00",
             "date_modified": "2025-09-12T22:02:04-05:00"
-        },
-        {
-            "id": "https://camsuarezl.github.io/arte-y-comunicacion/composicion-visual.html",
-            "url": "https://camsuarezl.github.io/arte-y-comunicacion/composicion-visual.html",
-            "title": "composicion visual",
-            "author": {
-                "name": "Camila Suárez"
-            },
-            "tags": [
-            ],
-            "date_published": "2025-09-07T12:29:00-05:00",
-            "date_modified": "2025-09-07T12:29:00-05:00"
         }
     ]
 }

@@ -3,12 +3,38 @@
     <title>Arte y comunicación</title>
     <link href="https://camsuarezl.github.io/arte-y-comunicacion/feed.xml" rel="self" />
     <link href="https://camsuarezl.github.io/arte-y-comunicacion" />
-    <updated>2025-11-09T16:16:10-05:00</updated>
+    <updated>2025-11-10T09:27:27-05:00</updated>
     <author>
         <name>Camila Suárez</name>
     </author>
     <id>https://camsuarezl.github.io/arte-y-comunicacion</id>
 
+    <entry>
+        <title>Video experimental </title>
+        <author>
+            <name>Camila Suárez</name>
+        </author>
+        <link href="https://camsuarezl.github.io/arte-y-comunicacion/video-experimental.html"/>
+        <id>https://camsuarezl.github.io/arte-y-comunicacion/video-experimental.html</id>
+
+        <updated>2025-11-10T09:27:27-05:00</updated>
+            <summary>
+                <![CDATA[
+                    aca experiemente con todo, desde jugar con la velicidad de montaje, el croma, la forma de que se muevan las fotos aun faltan pero por ahora fu emi manera de experimentar con las herramientas que tengo y que me encantan usar. https://youtu.be/N29weDSzOTU https://youtu.be/1Gm2x2iB_ZM https://youtu.be/z3ZLVv0dGU0
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <p class="align-center">aca experiemente con todo, desde jugar con la velicidad de montaje, el croma, la forma de que se muevan las fotos aun faltan pero por ahora fu emi manera de experimentar con las herramientas que tengo y que me encantan usar.</p>
+<p> </p>
+<p><a href="https://youtu.be/N29weDSzOTU">https://youtu.be/N29weDSzOTU</a></p>
+<p><a href="https://youtu.be/1Gm2x2iB_ZM">https://youtu.be/1Gm2x2iB_ZM</a></p>
+<p><a href="https://youtu.be/z3ZLVv0dGU0">https://youtu.be/z3ZLVv0dGU0</a></p>
+<p> </p>
+<p> </p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Entrevista </title>
         <author>
@@ -133,17 +159,5 @@
                 <figure class="post__image"><img loading="lazy"  src="https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/Captura-de-pantalla-2025-09-12-211855.png" alt="" width="933" height="920" sizes="(max-width: 1920px) 100vw, 1920px" srcset="https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-xs.png 640w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-sm.png 768w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-md.png 1024w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-lg.png 1366w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-xl.png 1600w ,https://camsuarezl.github.io/arte-y-comunicacion/media/posts/4/responsive/Captura-de-pantalla-2025-09-12-211855-2xl.png 1920w"></figure>
             ]]>
         </content>
-    </entry>
-    <entry>
-        <title>composicion visual</title>
-        <author>
-            <name>Camila Suárez</name>
-        </author>
-        <link href="https://camsuarezl.github.io/arte-y-comunicacion/composicion-visual.html"/>
-        <id>https://camsuarezl.github.io/arte-y-comunicacion/composicion-visual.html</id>
-
-        <updated>2025-09-07T12:29:00-05:00</updated>
-            <summary></summary>
-        <content></content>
     </entry>
 </feed>
